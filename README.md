@@ -1,0 +1,2 @@
+# Nodestea
+Tea testnet
